@@ -1,4 +1,5 @@
 # Potato Disease Classification using CNN
+
 Project Overview
 
 This project builds a Convolutional Neural Network (CNN) model to classify potato leaf images into three categories:
@@ -14,17 +15,22 @@ The model is trained on the PlantVillage dataset and implemented using TensorFlo
 # Dataset
 
 Dataset used: PlantVillage (Potato subset)
+
 Source: Kaggle
 
 The dataset contains labeled images organized in folders:
 
 Potato___Early_blight
+
 Potato___Late_blight
+
 Potato___healthy
 
 
 Total classes: 3
+
 Image type: RGB
+
 Input size: 224 × 224
 
 # Tools Used
