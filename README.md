@@ -138,8 +138,10 @@ Deploy using Streamlit
 
 Improve generalization with more augmentation
 
--Author
+-Author-
 
-Name: S M Mozahidul Haque
+S M Mozahidul Haque
+
 LinkedIn: www.linkedin.com/in/mozahidul-haque
+
 GitHub: https://github.com/mozahid00/Potato-Disease
