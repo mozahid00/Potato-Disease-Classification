@@ -140,6 +140,6 @@ Improve generalization with more augmentation
 
 # Author
 
-Your Name: S M Mozahidul Haque
+Name: S M Mozahidul Haque
 LinkedIn: www.linkedin.com/in/mozahidul-haque
 GitHub: https://github.com/mozahid00/Potato-Disease
