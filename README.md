@@ -144,4 +144,4 @@ S M Mozahidul Haque
 
 LinkedIn: www.linkedin.com/in/mozahidul-haque
 
-GitHub: https://github.com/mozahid00/Potato-Disease
+GitHub: https://github.com/mozahid00
